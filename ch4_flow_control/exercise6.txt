@@ -1,0 +1,1 @@
+This error message is due to not ending the if-else block. This error message can be fixed by adding a second 'end' keyword just after "puts 'nope' " on line 6 and moving the end that is there down to line 7.
