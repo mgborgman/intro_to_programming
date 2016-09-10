@@ -17,3 +17,6 @@ p numbers
 numbers.pop()
 numbers.push(3)
 p numbers
+
+#exercise 6
+numbers.uniq!
