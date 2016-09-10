@@ -1,0 +1,1 @@
+Both the programs print 3 to the screen, however the second program throws an error, "undefined local variable or method 'x'". This is because we never declared x outside of the times loop, so we do not have access to x outside of the loop's scope.
