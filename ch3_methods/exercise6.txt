@@ -1,0 +1,1 @@
+This error message tells me that there is a method called 'calculate_product' which expects 2 arguments and we have only passed in 1. Looks as the the method is called on line 4, but created on line 1.
