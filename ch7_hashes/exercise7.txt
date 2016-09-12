@@ -1,0 +1,2 @@
+my_hash is created using the new syntax for hash's, using a symbol for the key.
+my_hash2 is created using hash rocket syntax, where a string or other data type is used for the key but where a '=>' symbol points to the value. in this instance x is a string data type.
