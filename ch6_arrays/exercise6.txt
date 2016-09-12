@@ -1,0 +1,9 @@
+Problem: The program is trying to convert a number to a string. names['margaret'] gives the index where the name 'margaret' resides. You are unable to assign an index or Integer object, to a String. 
+
+Solution 1: names[-1] = 'jody'
+
+Solution 2: 
+names.index('margaret')
+=> 3
+names[3] = 'jody'
+=> 'jody'
