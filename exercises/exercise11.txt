@@ -1,0 +1,1 @@
+For ruby I prefer the ruby-doc.org site, it is the first documentation site I used for ruby, I am very comfotable with the layout. It give a lot of good info as well as examples of how methods are used, and the site is easy to navigate.
